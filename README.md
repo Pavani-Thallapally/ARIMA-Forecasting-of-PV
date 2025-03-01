@@ -24,5 +24,5 @@ In Market model a bi-level mathematical formulation is modelled in GAMS software
 
 In Risk analysis VaR and CVaR risk parameters are calculated for the above model as in 'AG1-CVaR (1).py' and 'AG2-CVaR.py'.
  
- Results with tables and plots are shown in 'Results and Tables (AutoRecovered).pdf'.
+ Results with tables and plots are shown in 'Results and Tables.pdf'.
 
